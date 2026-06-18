@@ -1,0 +1,14 @@
+{
+  "name": "gbartyzel-portfolio",
+  "private": true,
+  "scripts": {
+    "build:css": "npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/css/style.css --minify",
+    "watch:css": "npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/css/style.css --watch",
+    "dev": "npm run watch:css & hugo server",
+    "build": "npm run build:css && hugo --gc --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.0",
+    "tailwindcss": "^4.1.0"
+  }
+}

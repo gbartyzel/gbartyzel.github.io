@@ -1,0 +1,15 @@
+baseURL = 'https://gbartyzel.github.io/'
+languageCode = 'en-us'
+title = 'Grzegorz Bartyzel - Portfolio'
+
+[params]
+  name = "Grzegorz Bartyzel"
+  title = "Applied Scientist · Machine Learning & Robotics"
+  location = "Kraków, Poland"
+  email = "gbartyzel@hotmail.com"
+  github = "https://github.com/gbartyzel"
+  linkedin = "https://linkedin.com/in/gbartyzel"
+  scholar = "https://scholar.google.com/citations?user=5yFfxXEAAAAJ&hl=pl"
+  orcid = "https://orcid.org/0000-0002-7921-8867"
+  resumeUrl = "/gbartyzel_cv.pdf"
+  thesisUrl = "/gbartyzel_phd_thesis.pdf"
