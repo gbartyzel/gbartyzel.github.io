@@ -4,8 +4,8 @@ bio: "Hi there! Looking back at my career trajectory, I would call myself an App
 core_focus: "Reinforcement Learning, Representation Learning, Autonomous Driving, and End-to-End Robotics Systems."
 
 awards:
-  - title: "\"Młodzi Innowacyjni\" Winner — Best Doctoral Thesis, PIAP"
-  - title: "TRUMPF Huettinger Finalist — Best Doctoral Thesis 2025"
+  - title: "Winner of the 'Młodzi Innowacyjni' Competition (18th Edition) — Best Doctoral Thesis, PIAP 2026"
+  - title: "Finalist & Distinction Award — TRUMPF Huettinger Best Doctoral Thesis 2025 (Top 6)"
 
 highlights:
   - value: "9+"
